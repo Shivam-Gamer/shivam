@@ -1,0 +1,64 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color:lime;
+  background-image:url(sh.jpg);
+   background-size:cover;
+  background-repeat: no-repeat;
+  
+}
+
+
+div.man{ 
+    color:aqua;
+    background: rgba(0,0,0,0.5);
+    text-align: center;
+    margin-top: 25px;
+   border:5px solid yellow;
+   border-radius: 25px;
+}
+
+
+
+h1{
+  color:red;
+  background:rgba(0,0,0,2.5);
+  text-align: center;
+  border: 3px solid yellow;
+  border-radius:8px;
+  margin-top: 40px;
+  }
+
+#SUBMIT{
+  color: red;
+  background-color:lime ;
+}
+a{
+  color: red;
+  background-color:aqua;
+  border-radius:2px;
+}
+
+
+input#age{
+  border-radius: 20px;
+  width: 50px;
+  margin-right:80px;
+}
+
+input#address{
+  border-radius:20px;
+ 
+}
+
+
+input#mname,#pname,#mobile,#name,#lang, #stream,#catogery,#dob,#number{
+  border-radius: 20px;
+}
+
+input#dob{
+  width:80px;
+}
